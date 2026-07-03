@@ -7,12 +7,6 @@
 -  Specializing in Computer Vision
 -  Always learning and exploring new technologies
 
-## 🛠️ Tech Stack
-- **Languages:** Python, C, Java, SQL
-- **AI & ML:** PyTorch, TensorFlow, OpenCV, YOLO, EasyOCR
-- **Development:** PyQt6, Firebase, Git, Linux
-- **Other:** Arduino, ESP8266, RFID Systems
-
 ## 📌 Current Interests
 - Automatic License Plate Recognition (ALPR)
 - Object Detection & Tracking
