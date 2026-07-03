@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Riad 👋
 
-<!--
-**riadbenine/riadbenine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Engineering Student from Algeria, passionate about building intelligent systems with a focus on **Computer Vision**.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+-  Final-year AI Engineering student
+-  Specializing in Computer Vision
+-  Always learning and exploring new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python, C, Java, SQL
+- **AI & ML:** PyTorch, TensorFlow, OpenCV, YOLO, EasyOCR
+- **Development:** PyQt6, Firebase, Git, Linux
+- **Other:** Arduino, ESP8266, RFID Systems
+
+## 📌 Current Interests
+- Automatic License Plate Recognition (ALPR)
+- Object Detection & Tracking
+- Vision-Language Models (VLMs)
+- Self-Supervised Learning
+- Intelligent Transportation Systems
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/riad-benine-038689315/
+- Email: Riadbenine22@gmail.com
+
+> *"Turning pixels into intelligence."*
