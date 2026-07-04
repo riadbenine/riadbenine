@@ -1,11 +1,6 @@
 # Hi, I'm Riad 👋
 
-🎓 AI Engineering Student from Algeria, passionate about building intelligent systems with a focus on **Computer Vision**.
-
-## 🚀 About Me
--  Final-year AI Engineering student
--  Specializing in Computer Vision
--  Always learning and exploring new technologies
+ AI Engineering Student from Algeria, passionate about building intelligent systems with a focus on **Computer Vision**.
 
 ## 📌 Current Interests
 - Automatic License Plate Recognition (ALPR)
